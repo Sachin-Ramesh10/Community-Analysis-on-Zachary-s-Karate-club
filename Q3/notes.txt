@@ -1,0 +1,6 @@
+clustering2.m
+
+input is in the form of .csv file consisting of edges
+outputs the community membership of coresponding nodes in the second column of the variable Communities1
+
+

@@ -1,0 +1,13 @@
+clustering2.m 
+input is in the form of .gml file for matlab script which will calculate all posible cluster(non - relevant)
+
+
+Modularity.R 
+provides the reqired values.
+input for R script is manually entered as edges.
+
+
+F_measure.m
+The membership(which nodes belog to which community) is obtained by using Rscript Modularity.R  and F-measure is calulated using matlab script(F_measure.m)
+input for matlab script is manually entered.
+

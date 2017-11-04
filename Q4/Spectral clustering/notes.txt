@@ -1,0 +1,8 @@
+Clustering.m implements Spectral clustering:
+
+input is the form of gml file. which is converted to edgelist and Adjacency matrix in consecutive steps
+outputs the membership of corresponding nodes to their respective communities in the second column of the variable Communities
+
+F_measure.m calculates F - Measure:
+
+The membership (which node belongs to which community) of predicted and actual communities are manually given as input for calculation of Fmeasure 
